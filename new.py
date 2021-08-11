@@ -4,4 +4,5 @@ if a>=100:
 else:
     print("no")
 print("hi man ")
+print("hi how are you")
 
